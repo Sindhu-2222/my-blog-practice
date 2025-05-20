@@ -1,0 +1,14 @@
+.subscribe-button {
+  background: #007BFF;
+  padding: 10px 20px;
+  color: white;
+  border: none;
+  cursor: pointer;
+}
+.subscribe-button:hover {
+  background: #0056b3;
+}
+body.dark-mode {
+  background-color: #121212;
+  color: #ffffff;
+}
