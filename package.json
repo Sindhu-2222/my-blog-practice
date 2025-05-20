@@ -1,0 +1,20 @@
+{
+  "name": "my-blog-practice",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "test": "echo \"No tests yet\" && exit 0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Sindhu-2222/my-blog-practice.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Sindhu-2222/my-blog-practice/issues"
+  },
+  "homepage": "https://github.com/Sindhu-2222/my-blog-practice#readme"
+}
