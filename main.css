@@ -8,3 +8,7 @@
 .subscribe-button:hover {
   background: #0056b3;
 }
+body.dark-mode {
+  background-color: #121212;
+  color: #ffffff;
+}
